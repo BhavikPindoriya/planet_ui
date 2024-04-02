@@ -1,16 +1,18 @@
-# planet_ui
+# Planet UI Flutter Application
 
-A new Flutter project.
+This Flutter application creates a beautiful planet UI showcasing various planets in our solar system. Each planet is displayed with its name and a brief description, providing users with an immersive experience exploring the planets.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays information about various planets in the solar system.
+- Stunning UI design with smooth animations.
+- Responsive layout that adapts to different screen sizes.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/BhavikPindoriya/planet_ui/assets/154498968/768b68b9-0f8c-419f-a476-90dd07b6ca6b" alt="Screenshot 1" width="300">
+    <img src="https://github.com/BhavikPindoriya/planet_ui/assets/154498968/df7866ad-c4e3-4da0-b902-5b5cd59127ab" alt="Screenshot 2" width="300">
+    <img src="https://github.com/BhavikPindoriya/planet_ui/assets/154498968/0cc101b6-991c-482a-b244-0f03095ecc23" alt="Screenshot 3" width="300">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
